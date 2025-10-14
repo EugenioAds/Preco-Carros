@@ -14,8 +14,7 @@ Ano
 
 Tipo de combustível
 
-Tecnologias utilizadas
-
+TECNOLOGIAS UTILIZADAS
 Java 17+
 
 Spring Boot
@@ -30,10 +29,10 @@ Maven
 
 REST API
 
-Funcionalidades
+FUNCIONALIDADES
 
 Buscar veículos por marca, modelo ou tipo
 
-📊 Exibir informações detalhadas de cada veículo
+Exibir informações detalhadas de cada veículo
 
-📈 Listar e comparar preços entre diferentes tipos de veículos
+Listar e comparar preços entre diferentes tipos de veículos
