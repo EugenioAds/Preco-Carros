@@ -15,6 +15,7 @@ Ano
 Tipo de combustível
 
 TECNOLOGIAS UTILIZADAS
+
 Java 17+
 
 Spring Boot
