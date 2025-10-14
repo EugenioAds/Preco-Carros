@@ -1,4 +1,4 @@
-Buscador de Preços de Veículos
+# Buscador de Preços de Veículos
 
 Este projeto é uma aplicação desenvolvida em Java com Spring Boot, criada com o objetivo de facilitar a busca e comparação de preços de veículos — incluindo carros, motos e caminhões.
 
@@ -30,9 +30,9 @@ Maven
 
 REST API
 
-⚙️ Funcionalidades
+Funcionalidades
 
-🔎 Buscar veículos por marca, modelo ou tipo
+Buscar veículos por marca, modelo ou tipo
 
 📊 Exibir informações detalhadas de cada veículo
 
